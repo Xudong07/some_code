@@ -1,9 +1,4 @@
-/*************************************************************************
-    > File Name: read_commandline.c
-    > Author: Xudong Duan
-    > Mail: duanxudong12014401@163.com 
-    > Created Time: 2020年07月12日 星期日 14时44分19秒
- ************************************************************************/
+
 /*
 code for reading from stdin or command line
 */
