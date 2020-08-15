@@ -16,4 +16,4 @@ try:
         num = int(num)
         print(trans(num,2))
 except:
-    pass
+     
