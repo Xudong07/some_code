@@ -1,7 +1,7 @@
 import sys
 numn = 0
 nump = 0
-sumv = 0
+sumv = 0 
 try:
     while(1):
         num = sys.stdin.readline().strip().split()
